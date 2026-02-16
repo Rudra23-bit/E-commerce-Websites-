@@ -29,7 +29,7 @@ Tech Stack:
 
 
 
-![image alt]()
+![image alt](https://github.com/Rudra23-bit/E-commerce-Websites-/blob/main/HOME.png?raw=true)
 
 
 
