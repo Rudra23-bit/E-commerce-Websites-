@@ -26,3 +26,27 @@ Tech Stack:
 2.Styling: Tailwind CSS
 
 3.Languages: JavaScript, HTML, CSS
+
+
+
+![image alt]()
+
+
+
+
+![image alt]()
+
+
+
+
+![image alt]()
+
+
+
+
+![image alt]()
+
+
+
+
+![image alt]()
