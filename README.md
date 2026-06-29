@@ -1,5 +1,7 @@
 E-Commerce:
 
+Live link: https://stylevibe1.netlify.app/
+
 Complete eCommerce Website built with React JS & Tailwind CSS
 
 This repository contains a fully functional eCommerce website built from scratch using React JS for frontend development and Tailwind CSS for modern, responsive UI.
